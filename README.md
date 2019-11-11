@@ -1,6 +1,6 @@
 # I Am Rich
 
-Most basic Flutter app to learn the basics.
+Simple Flutter app to learn the basics.
 
 ## Resources I Used
 
