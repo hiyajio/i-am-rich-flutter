@@ -1,4 +1,4 @@
-# I Am Rich
+# I Am Rich - Flutter
 
 Simple Flutter app to learn the basics.
 
