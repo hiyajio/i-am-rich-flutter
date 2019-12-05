@@ -1,4 +1,4 @@
-# I Am Rich - Flutter
+# I Am Rich :gem: Flutter
 
 Simple Flutter app to learn the basics.
 
