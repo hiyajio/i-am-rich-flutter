@@ -10,5 +10,3 @@ Simple Flutter app to learn the basics.
 For help getting started with Flutter, view Flutter Documentation
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
-
----
